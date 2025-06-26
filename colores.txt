@@ -3,3 +3,4 @@ azul
 verde
 Amarillo
 Naranja
+Morado
